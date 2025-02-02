@@ -1,7 +1,3 @@
-#### Team 6
-##### Name - Atharva Keskar, Roll Number - 2024202017 
-##### Name - Kuldeep Lakhe, Roll Number - 2024202025
-##### Name - Saurabh Kumar, Roll Number - 2024202029 
 # Secure Client-Server Connection Using a Distributed Double DES (D-DDES)
 
 SNS Assignment 1
